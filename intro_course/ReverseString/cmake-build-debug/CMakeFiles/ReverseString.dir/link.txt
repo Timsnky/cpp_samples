@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ReverseString.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\ReverseString.dir/objects.a @CMakeFiles\ReverseString.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\ReverseString.dir/objects.a -Wl,--no-whole-archive  -o ReverseString.exe -Wl,--out-implib,libReverseString.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ReverseString.dir\linklibs.rsp

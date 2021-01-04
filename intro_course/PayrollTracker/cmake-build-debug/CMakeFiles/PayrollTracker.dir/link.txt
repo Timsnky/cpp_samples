@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\PayrollTracker.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\PayrollTracker.dir/objects.a @CMakeFiles\PayrollTracker.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\PayrollTracker.dir/objects.a -Wl,--no-whole-archive  -o PayrollTracker.exe -Wl,--out-implib,libPayrollTracker.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PayrollTracker.dir\linklibs.rsp

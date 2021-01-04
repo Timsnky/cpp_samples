@@ -1,0 +1,3 @@
+D:/Development/CLionProjects/Introduction/ModifyThis20/cmake-build-debug/CMakeFiles/ModifyThis20.dir
+D:/Development/CLionProjects/Introduction/ModifyThis20/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Development/CLionProjects/Introduction/ModifyThis20/cmake-build-debug/CMakeFiles/rebuild_cache.dir

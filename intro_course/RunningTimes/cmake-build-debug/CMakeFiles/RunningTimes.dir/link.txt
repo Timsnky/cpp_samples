@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\RunningTimes.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\RunningTimes.dir/objects.a @CMakeFiles\RunningTimes.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\RunningTimes.dir/objects.a -Wl,--no-whole-archive  -o RunningTimes.exe -Wl,--out-implib,libRunningTimes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RunningTimes.dir\linklibs.rsp

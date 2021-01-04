@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\GuessTheWord.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\GuessTheWord.dir/objects.a @CMakeFiles\GuessTheWord.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\GuessTheWord.dir/objects.a -Wl,--no-whole-archive  -o GuessTheWord.exe -Wl,--out-implib,libGuessTheWord.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GuessTheWord.dir\linklibs.rsp

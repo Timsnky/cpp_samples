@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\RegionShippingCharge.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\RegionShippingCharge.dir/objects.a @CMakeFiles\RegionShippingCharge.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\RegionShippingCharge.dir/objects.a -Wl,--no-whole-archive  -o RegionShippingCharge.exe -Wl,--out-implib,libRegionShippingCharge.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RegionShippingCharge.dir\linklibs.rsp

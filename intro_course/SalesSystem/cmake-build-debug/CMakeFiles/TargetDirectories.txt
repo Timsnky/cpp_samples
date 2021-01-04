@@ -1,0 +1,3 @@
+D:/Development/CLionProjects/Introduction/SalesSystem/cmake-build-debug/CMakeFiles/SalesSystem.dir
+D:/Development/CLionProjects/Introduction/SalesSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Development/CLionProjects/Introduction/SalesSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

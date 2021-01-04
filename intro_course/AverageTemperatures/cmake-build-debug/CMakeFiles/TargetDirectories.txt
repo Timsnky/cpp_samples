@@ -1,0 +1,3 @@
+D:/Development/CLionProjects/Introduction/AverageTemperatures/cmake-build-debug/CMakeFiles/AverageTemperatures.dir
+D:/Development/CLionProjects/Introduction/AverageTemperatures/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Development/CLionProjects/Introduction/AverageTemperatures/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\WindowPurchase.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\WindowPurchase.dir/objects.a @CMakeFiles\WindowPurchase.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\WindowPurchase.dir/objects.a -Wl,--no-whole-archive  -o WindowPurchase.exe -Wl,--out-implib,libWindowPurchase.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\WindowPurchase.dir\linklibs.rsp
